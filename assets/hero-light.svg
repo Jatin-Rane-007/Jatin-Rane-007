@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420" role="img" aria-labelledby="title desc">
+  <title id="title">Jatin Rane — frontend engineer</title>
+  <desc id="desc">Jatin Rane, frontend engineer. Open to frontend roles. Nadiad, India. Currently building mobile products and learning backend engineering and AI agents.</desc>
+  <style>
+    .signal { stroke-dasharray: 34 335; animation: trace 6s linear infinite; }
+    @keyframes trace { to { stroke-dashoffset: -369; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; stroke-dashoffset: -118; } }
+  </style>
+  <rect x="0.5" y="0.5" width="1099" height="419" rx="10" fill="#F5F3EF" stroke="#DCD7CC"/>
+  <rect x="712.5" y="64.5" width="331" height="291" rx="10" fill="#E9E5DC" stroke="#DCD7CC"/>
+
+  <g stroke="#DCD7CC" stroke-width="1" opacity="0.55">
+    <path d="M736 118V336"/><path d="M783 118V336"/><path d="M830 118V336"/>
+    <path d="M877 118V336"/><path d="M924 118V336"/><path d="M971 118V336"/><path d="M1018 118V336"/>
+    <path d="M736 158H1020"/><path d="M736 198H1020"/><path d="M736 238H1020"/><path d="M736 278H1020"/>
+  </g>
+
+  <text x="56" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="84" font-weight="600" letter-spacing="-3" fill="#111514">Jatin Rane</text>
+  <text x="56" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#39413D">Frontend engineer building React Native products —</text>
+  <text x="56" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#39413D">and the AI inside them.</text>
+
+  <circle cx="60" cy="295.5" r="4" fill="#0A6B4B"/>
+  <text x="74" y="300" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#39413D">Open to frontend roles</text>
+  <text x="216" y="300" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12" fill="#5A625D">/</text>
+  <text x="228" y="300" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12" fill="#5A625D">Nadiad, India</text>
+
+  <text x="56" y="336" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.09em" fill="#5A625D">now</text>
+  <text x="96" y="336" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#39413D">typescript · react native</text>
+  <text x="330" y="336" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.09em" fill="#5A625D">next</text>
+  <text x="374" y="336" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#39413D">backend · ai agents</text>
+
+  <path d="M56 376H1044" stroke="#DCD7CC"/>
+
+  <text x="736" y="94" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.14em" fill="#5A625D">AGENT LOOP</text>
+  <circle cx="944" cy="90" r="3" fill="#0A6B4B"/>
+  <text x="1020" y="94" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.08em" fill="#0A6B4B" text-anchor="end">grounded</text>
+
+  <path d="M878 164 L958 210 L878 256 L798 210 Z" fill="none" stroke="#DCD7CC" stroke-width="1" stroke-dasharray="3 7"/>
+  <path class="signal" d="M878 164 L958 210 L878 256 L798 210 Z" fill="none" stroke="#0A6B4B" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#FBFAF6" stroke="#CFC9BD">
+    <circle cx="878" cy="164" r="5"/><circle cx="958" cy="210" r="5"/>
+    <circle cx="878" cy="256" r="5"/><circle cx="798" cy="210" r="5"/>
+  </g>
+  <g font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.08em" fill="#5A625D">
+    <text x="878" y="148" text-anchor="middle">plan</text>
+    <text x="972" y="214">tools</text>
+    <text x="878" y="278" text-anchor="middle">verify</text>
+    <text x="784" y="214" text-anchor="end">memory</text>
+  </g>
+
+  <text x="736" y="330" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#5A625D">draft → form → row</text>
+
+  <text x="56" y="404" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#5A625D">github.com/Jatin-Rane-007</text>
+  <text x="1044" y="404" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#5A625D" text-anchor="end">profile · 2026</text>
+</svg>

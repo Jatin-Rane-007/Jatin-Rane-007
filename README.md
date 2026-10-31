@@ -1,53 +1,35 @@
-## Jatin Rane
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/hero-dark-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(max-width: 700px)" srcset="assets/hero-light-mobile.svg" />
+  <img src="assets/hero-light.svg" width="100%" alt="Jatin Rane, frontend engineer. Open to frontend roles, based in Nadiad, India. Now: TypeScript and React Native. Next: backend engineering and AI agents." />
+</picture>
 
-Frontend Engineer — React / React Native · Nadiad, Gujarat, India
-**Open to frontend roles** → [007rjatin@gmail.com](mailto:007rjatin@gmail.com)
+I build mobile products end to end in TypeScript — React Native and Next.js in front, Supabase and Clerk behind. Frontend developer at Groovy Web since 2023, now going deeper on backend systems and AI agents.
 
-I take features from first UI commit through API integration to cross-platform
-hardening — shipping React Native and React + TypeScript in production for
-platforms where real money moves and compliance matters.
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/card-dark-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg" />
+  <source media="(max-width: 700px)" srcset="assets/card-light-mobile.svg" />
+  <img src="assets/card-light.svg" width="100%" alt="Jatin Rane's system profile with an ASCII portrait: frontend engineer in Nadiad, India. Stack: TypeScript, JavaScript, React, Next.js, React Native, Expo, Supabase, Postgres and Clerk. AI tools: Gemini, Claude and ChatGPT. IDEs: VS Code, Cursor, Android Studio and Xcode. Learning backend engineering and AI agents. Open to frontend roles." />
+</picture>
 
-### Production client work
+## Contributions
 
-**Frontend Developer · Groovy Web** — Dec 2023 – 2026
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jatin-Rane-007/Jatin-Rane-007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jatin-Rane-007/Jatin-Rane-007/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Jatin-Rane-007/Jatin-Rane-007/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution graph with a snake animation eating the contribution squares." />
+</picture>
 
-**Saayam** — fundraising & social-impact platform · React Native
+## What I build
 
-- In-app messaging: audio recording/playback, swipe-to-reply, message search — refactored a monolithic chat bubble into type-specific components
-- Multi-beneficiary donation splitting (even / percentage / fixed) with real-time validation, plus fundraiser payouts with approval-state tracking
-- Short-video social feature end-to-end: capture, infinite-scroll feed, admin review — including the iOS/Android camera and gesture edge cases
-- Disaster-relief and elderly-care request flows across four account types, with multi-step dynamic forms and country-specific bank-account (FCRA) handling
+- Mobile products in Expo and React Native — the screens, the state, and the edge cases that only show up on a real device.
+- Typed data layers on Supabase Postgres with Clerk identity, scoped by row-level security.
+- AI features that stay grounded in real data: structured Gemini output, editable drafts, and null rather than a guess.
 
-**Menthra** — AI-powered mental wellness platform · React + TypeScript
+## Contact
 
-- Real-time therapist dashboard: live session monitoring, crisis alerts, infinite-scroll analytics
-- Companion-sharing feature end-to-end: creation, invitations, real-time notifications, admin approval
-- Mobile/WebView adaptation of the React app across 25+ screens inside native iOS/Android shells
-- Compliance system: versioned BAA/DPA acceptance, OTP verification, identity & selfie checks
+Open to frontend roles.
 
-### Personal builds
-
-**[lenvy](https://github.com/Jatin-Rane-007/lenvy)** — personal wealth tracker with AI receipt & voice capture; every figure traces back to a transaction
-`Expo` `React Native` `Supabase` `Gemini`
-
-**[stocklens-web-app](https://github.com/Jatin-Rane-007/stocklens-web-app)** — stock monitoring with live market data, interactive charts, personalized alerts
-`Next.js` `TypeScript`
-
-**[chatify](https://github.com/Jatin-Rane-007/chatify)** — full-stack real-time chat: Socket.IO messaging, JWT auth, media uploads
-`React` `Express` `MongoDB` `Socket.IO`
-
-**[spring-boot-postgres-northwind](https://github.com/Jatin-Rane-007/spring-boot-postgres-northwind)** — REST API over the Northwind schema; JPA, DTO patterns, robust error handling
-`Spring Boot 3` `PostgreSQL`
-
-### Stack
-
-**Languages** — TypeScript · JavaScript · Java
-**Mobile** — React Native · Expo · Gesture Handler · FlatList performance
-**Web** — React · Next.js · Redux Toolkit · SCSS
-**Backend & data** — Node · Express · Socket.IO · PostgreSQL · MongoDB · Supabase · REST · WebSocket
-
-### Contact
-
-**Email** — [007rjatin@gmail.com](mailto:007rjatin@gmail.com)
-**LinkedIn** — [in/rane-jatin-852b331a9](https://www.linkedin.com/in/rane-jatin-852b331a9)
-**GitHub** — [Jatin-Rane-007](https://github.com/Jatin-Rane-007)
+[007rjatin@gmail.com](mailto:007rjatin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rane-jatin-852b331a9) · [GitHub](https://github.com/Jatin-Rane-007)

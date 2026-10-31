@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="580" viewBox="0 0 390 580" role="img" aria-labelledby="title desc">
+  <title id="title">Jatin Rane — frontend engineer</title>
+  <desc id="desc">Jatin Rane, frontend engineer. Open to frontend roles. Nadiad, India. Currently building mobile products and learning backend engineering and AI agents.</desc>
+  <style>
+    .signal { stroke-dasharray: 34 335; animation: trace 6s linear infinite; }
+    @keyframes trace { to { stroke-dashoffset: -369; } }
+    @media (prefers-reduced-motion: reduce) { .signal { animation: none; stroke-dashoffset: -118; } }
+  </style>
+  <rect x="0.5" y="0.5" width="389" height="579" rx="10" fill="#0A0C0D" stroke="#242B2E"/>
+  <rect x="23.5" y="257.5" width="343" height="273" rx="10" fill="#171C1F" stroke="#242B2E"/>
+
+  <g stroke="#242B2E" stroke-width="1" opacity="0.55">
+    <path d="M74 303V512"/><path d="M123 303V512"/><path d="M172 303V512"/><path d="M221 303V512"/>
+    <path d="M270 303V512"/><path d="M319 303V512"/>
+    <path d="M48 343H342"/><path d="M48 383H342"/><path d="M48 423H342"/><path d="M48 463H342"/>
+  </g>
+
+  <text x="24" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" letter-spacing="-1.6" fill="#EEF3F0">Jatin Rane</text>
+  <text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B7C2BC">Frontend engineer building React Native</text>
+  <text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#B7C2BC">products — and the AI inside them.</text>
+
+  <circle cx="28" cy="173.5" r="4" fill="#5BD9A3"/>
+  <text x="42" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#B7C2BC">Open to frontend roles</text>
+
+  <text x="24" y="212" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.09em" fill="#9AA59F">now</text>
+  <text x="56" y="212" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#B7C2BC">typescript · react native</text>
+  <text x="24" y="234" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.09em" fill="#9AA59F">next</text>
+  <text x="56" y="234" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#B7C2BC">backend · ai agents</text>
+
+  <text x="48" y="284" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.14em" fill="#9AA59F">AGENT LOOP</text>
+  <circle cx="266" cy="280" r="3" fill="#5BD9A3"/>
+  <text x="332" y="284" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.08em" fill="#5BD9A3" text-anchor="end">grounded</text>
+
+  <path d="M195 358 L281 400 L195 442 L109 400 Z" fill="none" stroke="#242B2E" stroke-width="1" stroke-dasharray="3 7"/>
+  <path class="signal" d="M195 358 L281 400 L195 442 L109 400 Z" fill="none" stroke="#5BD9A3" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#0E1214" stroke="#2C3536">
+    <circle cx="195" cy="358" r="5"/><circle cx="281" cy="400" r="5"/>
+    <circle cx="195" cy="442" r="5"/><circle cx="109" cy="400" r="5"/>
+  </g>
+  <g font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.08em" fill="#9AA59F">
+    <text x="195" y="344" text-anchor="middle">plan</text>
+    <text x="293" y="404">tools</text>
+    <text x="195" y="464" text-anchor="middle">verify</text>
+    <text x="97" y="404" text-anchor="end">memory</text>
+  </g>
+
+  <text x="48" y="506" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#9AA59F">draft → form → row</text>
+
+  <path d="M24 556H366" stroke="#242B2E"/>
+</svg>
