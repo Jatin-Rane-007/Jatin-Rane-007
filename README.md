@@ -32,4 +32,4 @@ I build mobile products end to end in TypeScript — React Native and Next.js in
 
 Open to frontend roles.
 
-[007rjatin@gmail.com](mailto:007rjatin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rane-jatin-852b331a9) · [GitHub](https://github.com/Jatin-Rane-007)
+[007rjatin@gmail.com](mailto:007rjatin@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jatin-rane-852b331a9/) · [GitHub](https://github.com/Jatin-Rane-007)
